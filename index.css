@@ -13,12 +13,12 @@ body {
 
 .af {
     width: auto;
-    max-height: 300px;
-    margin: 0px 20px;
+    max-height: 18.75rem;
+    margin: 0rem 1.25rem;
 }
 
 h2 {
-    font-size: 50px;
+    font-size: 3.125rem;
 }
 nav ul {
     list-style: none;
@@ -27,60 +27,60 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin-right: 50px;
-    font-size: 25px;
+    margin-right: 3.125rem;
+    font-size: 1.563rem;
 }
 
 nav ul li a {
     text-decoration: none;
-    margin-bottom: 50px;
+    margin-bottom: 3.125rem;
     color: aliceblue;
 }
 
 
 article {
-    border-top: 1px white;
-    border-bottom: 1px white;
-    margin-top: 2cm;
+    border-top: 0.063rem white;
+    border-bottom: 0.063rem white;
+    margin-top: 4.72rem;
     
     
 }
 
 p {
-    font-size: 20px;
+    font-size: 1.25rem;
     line-height: 1.8;
-    margin-bottom: 12px;
+    margin-bottom: 0.75re;
     text-align: center
 }
 
 #about {
-    padding-inline-start: 20px;
-    padding-inline-end: 20px;
+    padding-inline-start: 1.25rem;
+    padding-inline-end: 1.25rem;
     width: auto;
     height: auto;
-    margin: 10px 90px;
+    margin: 0.625rem 5.625rem;
 }
 
 #headicn {
     width: auto;
-    height: 40px;
+    height: 2.5rem;
 }
 
 .para {
-    padding-top: 10px;
+    padding-top: 0.625rem;
 }
 
 .watchf {
     text-align: center;
     
-    margin-top: 30px;
-    padding: 30px;
+    margin-top: 1.875rem;
+    padding: 1.875rem;
     
 }
 header {
     background-color: transparent;
     color:aliceblue;
-    padding: 10px 0;
+    padding: 0.625rem 0;
 }
 
 hr
@@ -98,8 +98,8 @@ hr
 .navib:hover {
     box-shadow: inset 250px 0 0 0 rgba(159, 3, 250, 0.514);
     color: rgb(255, 255, 255);
-    font-size: 30px;  
+    font-size: 1.875rem;  
 }
 h3 {
-font-size: 30px;
+font-size: 1.875rem;
 }
