@@ -67,6 +67,7 @@ p {
 }
 
 .para {
+    text-align: justify;
     padding-top: 0.625rem;
 }
 
