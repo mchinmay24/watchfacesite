@@ -69,6 +69,7 @@ p {
 .para {
     text-align: justify;
     padding-top: 0.625rem;
+    margin: 0px -1.875rem;
 }
 
 .watchf {
